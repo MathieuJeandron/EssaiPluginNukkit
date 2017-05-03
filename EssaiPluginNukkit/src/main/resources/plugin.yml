@@ -1,0 +1,11 @@
+name: EssaiPluginNukkit 
+main: io.github.MathieuJeandron.essaipluginnukkit.Main 
+version: "1.0.0"
+api: ["1.0.0"]
+load: POSTWORLD
+author: MathieuJeandron
+commands: 
+  basic: 
+     description: This is a demo command. 
+     usage: /nuke 
+     
